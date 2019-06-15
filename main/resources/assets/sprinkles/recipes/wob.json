@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " SW",
+        "S W",
+        " SW"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:string"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sprinkles:wob",
+        "count": 1
+    }
+}

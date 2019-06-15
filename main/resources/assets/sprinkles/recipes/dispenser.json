@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CCC",
+        "CWC",
+        "CRC"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:cobblestone"
+        },
+        
+        "W":
+        {
+            "item": "sprinkles:wob"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:redstone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:dispenser",
+        "count": 1
+    }
+}
